@@ -422,7 +422,7 @@ def main():
     <style>
     /* Global dark theme */
     .stApp {
-        background-color: #111827;
+        background-color: #ffffff;
         color: #ffffff;
     }
     
